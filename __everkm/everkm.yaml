@@ -1,0 +1,24 @@
+config:
+  site:
+    name: 养生123
+    description: 养生123，健康生活每一天。
+    keywords: 传统食疗养生
+
+  yousha:
+    community: ys123
+
+  header_nav:
+    - title: 首页
+      url: /
+    - title: 大余之道
+      children:
+        - title: 养生
+          url: https://ys.dayu.me
+        - title: 中医之路
+          url: https://zy.dayu.me
+        - title: 生·活
+          url: https://sh.dayu.me
+        - title: 大余之道
+          url: https://dayu.me
+        - title: 特好吃
+          url: https://tehaochi.cn

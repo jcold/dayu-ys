@@ -1,0 +1,17 @@
+{
+  "preview": {
+    "base_prefix": "",
+    "theme": "youlog",
+    "reveal_private_zones": true
+  },
+  "git": {
+    "remote": {
+      "auth": null,
+      "authMode": "system",
+      "branch": null,
+      "sshKeyId": null,
+      "url": "git@github.com:jcold/dayu-ys.git",
+      "username": null
+    }
+  }
+}
